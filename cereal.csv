@@ -1,3 +1,4 @@
+id, brand, name, rate_num, rate, time, page, position, search_term
 1,"Cheerios","Honey Nut Cheerios Gluten Free Cereal ",205,"5.0","2015-12-05 23:16:35.436370",1,0,"cereal"
 2,"Kellogg's","Kellogg s Frosted Flakes Cereal",117,"4.5","2015-12-05 23:16:35.436370",1,1,"cereal"
 3,"Other","Reese s Puffs Cereal ",19,"4.5","2015-12-05 23:16:35.436370",1,2,"cereal"
