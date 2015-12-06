@@ -3,8 +3,8 @@
 This is a neat little program that scrapes some cereal info from Walmart's website. 
 
 Dependencies:
-# pip install requests
-# pip install peewee
+pip install requests
+pip install peewee
 
 Primary file: cereal.py
 
